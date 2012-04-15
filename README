@@ -1,0 +1,12 @@
+------------------------
+SPI_Synth v0.01a
+Author: Daniel Gallagher
+Date: April 15, 2012
+------------------------
+
+SPI_Synth is a simple Arduino SPI sketch to initialize the PLL in a MiniCircuits synthesizer to a fixed LO frequency.
+
+Synthezier: MiniCircuits KSN Series (ie. KSN-900A-119+)
+PLL: Analog Devices ADF4118 (from synthesizer datasheet)
+
+Frequency: (fixed)
