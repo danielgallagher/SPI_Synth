@@ -10,3 +10,11 @@ Synthezier: MiniCircuits KSN Series (ie. KSN-900A-119+)
 PLL: Analog Devices ADF4118 (from synthesizer datasheet)
 
 Frequency: (fixed)
+
+Component Datasheets:
+KSN-900A-119+: http://www.minicircuits.com/pdfs/KSN-900A-119+.pdf
+Eval Board TB-567+: http://www.minicircuits.com/pcb/WTB-567+_P02.pdf
+Reference PCB: http://www.minicircuits.com/pcb/98-pl249.pdf
+
+ADF4118: http://www.analog.com/en/rfif-components/pll-synthesizersvcos/adf4118/products/product.html
+http://www.analog.com/static/imported-files/data_sheets/ADF4116_4117_4118.pdf
